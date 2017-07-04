@@ -14,4 +14,6 @@ node_modules
 *.pyc
 __pycache__
 *.swp
-.vscode/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
